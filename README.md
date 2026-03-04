@@ -35,6 +35,8 @@ Based on video ["ONE PIECE" Worldwide Sales Exceed 600 Million Copies - "What is
 
 # Gathered Info
 ## Timestamps
+- @[0:09](https://youtu.be/O9M1UMj-vwE?t=9) - Feb. 8, 2026 - 1:25 PM At Eiichiro Oda's studio
+- @[0:57](https://youtu.be/O9M1UMj-vwE?t=57) - Feb. 12 - 2:38 PM The chest is sealed in a pressure-resistant glass sphere
 - @[1:13](https://youtu.be/O9M1UMj-vwE?t=73) - Feb. XX - 3:40 PM \[Local Time] Arrival at specified drop point
 - @[1:19](https://youtu.be/O9M1UMj-vwE?t=79) - 4:32 PM Deep-sea descent begins
 - @[1:29](https://youtu.be/O9M1UMj-vwE?t=89) - 4:51 PM 200m and descending
@@ -163,25 +165,41 @@ Based on video ["ONE PIECE" Worldwide Sales Exceed 600 Million Copies - "What is
 
 ![](map-6.png)
 
-### 5. Most possible match: Noto Peninsula, Toyama Bay
+### 4. Most possible match: Noto Peninsula, Toyama Bay
 
 ![](map-5.png)
 ![](map-4.png)
 ![](map-7.png)
 
+
+### 5. Supporting evidence: Satelite images of Japan from February
+  - Sky has to be relatively open, only partly cloudy
+  - Weather has to be condusive for dramatic crepuscular rays
+  - The drop was finished before sunset
+  - The shadows of the ship are long and fall toward the North/Northeast, which means the ship faces west in all frames
+  - The chest was sealed on 2026-02-12 at 2:38 PM local time, so the drop could happen anytime after that
+
+![](satellite.jpg)
+
+Based on conditions, I think 2026-02-13 and 2026-02-19 are the most probable days of the drop, with February 13th having the advantage of higher max. temperature (10°C)
+
+![](satellite-2.png)
+
+
 # Reasoning
 - The shape and depth on the map shown in video checks out with depth profile of that part of Toyama bay.
 - The position of the Sun at the time of the drop suggests that frames featuring the ship are looking towards the city of Nanao.
   - <img src="sun.png" height="300" />
-- Shores of Noto peninsula should be visible from the drop point, as it is only ~12 km away (and since there are some hills up to 300 m above sea level, on clear day visible from as far as 60 km). But since the drop happened in mid/late february, I believe we have to take into account the atmospheric haze happening during transition from winter to spring (air temperature rises while the water remains near 10-12℃, this temperature inversion creates a layer of moisture near the surface, obscuring shores, even at a relatively close ~12 km range).
-- Every comment I made under the video mentioning "Toyama bay" was deleted, while others mentioning Suruga or Sagami were left there. In digital marketing campaigns for treasure hunts, moderators often prune the correct answer to prevent the spoiler from trending too early, while leaving red herrings (Sagami/Suruga) to keep the engagement high.
+- Shores of Noto peninsula should be visible from the drop point, as it is only ~12 km away (and since there are some hills up to 300 m above sea level, on clear day visible from as far as 60 km). But since the drop happened in mid/late february, I believe we have to take into account the atmospheric haze happening during transition from winter to spring (air temperature rises while the water remains near 10-12°C, this temperature inversion creates a layer of moisture near the surface, obscuring shores, even at a relatively close ~12 km range).
+- Overcast weather would produce flat, directionless light, nothing as cinematic as in the video; temperature spike (10°C was recorded on 2026-02-13 between 1-2 PM, that would create temperature inversion, which would help with crepuscular rays and atmospheric haze, further supporting why there is no shore visible in almost any frame.
 - While Sagami bay could seem like go-to option, I think that there would be simply too much traffic, since the bay leads to Tokyo. It's closeness to Tokyo would appear to lend it more weight, since moving the film crew and the payload itself would be easier than to 300+ km far away Nanao/Toyama, but then again, the depth profile checks out with Toyama; Sagami is much more jagged in this regard.
 - There were giant squids found in Toyama bay, which at the time of the drop begin their seasonal Diel vertical migration.
 - Following the 2024 Noto Peninsula earthquake, seafloor of Toyama bay has intensive ongoing research and hight-tech effort to remap the seafloor (by JAMSTEC) which would render the needed infrastructure for deep sea projects available. I think it's much easier for a film crew to "piggyback" on existing maritime operations or rent a specialized research vessel already stationed in Toyama/Nanao for earthquake study than to bring one up from Tokyo.
 - Toyama bay is a "natural fish tank" with a steep drop-off to 1,000m-1,200m. A 651 m touchdown puts the payload on the upper slope of the Toyama Trough, likely on a stable ledge away from the high-sediment "canyons" where river runoff flows. This depth is deep enough to be "unreachable" by anyone but professionals, but shallow enough for the remotely operated vehicles used in the video to operate efficiently.
+- Lastly, every comment I made under the video mentioning "Toyama bay" was deleted, while others mentioning Suruga or Sagami were left there. In digital marketing campaigns for treasure hunts, moderators often prune the correct answer to prevent the spoiler from trending too early, while leaving red herrings (Sagami/Suruga) to keep the engagement high.
 
 # Conclusion
-I believe One Piece is somewhere around 37°09'32.44"N 137°10'18.85"E
+Based on evidence I gathered, I think One Piece was dropped off at February 13th at 16:32 in Toyama bay, ~14 km south of Noto
 
 ---
 
@@ -197,6 +215,7 @@ I believe One Piece is somewhere around 37°09'32.44"N 137°10'18.85"E
 
 # Tools
 - [OpenSeaMap](https://map.openseamap.org/)
+- [JAXA Himawari Monitor](https://www.eorc.jaxa.jp/ptree/index.html)
 - [SunEarthTools.com](https://www.sunearthtools.com/dp/tools/pos_sun.php)
 - Google Earth
 - Google Gemini for some calculations
