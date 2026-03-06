@@ -293,10 +293,10 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 > [!NOTE]  
 > **Place**: ~28 km south of Ōshima  
 > **Date**: TBA  
-> **Time**: TBA  
+> **Time**: 16:32  
 > **Wind**: TBA  
 > **Visibility**: TBA  
-> **Cloud cover**: TBA  
+> **Cloud cover**: Partly Cloudy  
 
 0. **COAST**: Sagami bay seems like the **next most possible option**, given that both the **coastline and depth profiles align perfectly**. Not only that, even the **ship route points towards** a large area of 500-750 m depths.
 1. **WEATHER**: TBA
@@ -309,12 +309,12 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 
 # Suruga
 > [!NOTE]  
-> **Place**: TBA  
+> **Place**: Multiple choices  
 > **Date**: Same as Sagami  
-> **Time**: TBA  
+> **Time**: 16:32  
 > **Wind**: TBA  
 > **Visibility**: TBA  
-> **Cloud cover**: TBA 
+> **Cloud cover**: Partly Cloudy  
 
 0. **COAST**: **Nothing fits**. Depth marks, coastline, ship route. But it still has plenty of sufficiently deep areas in the interior of the bay.
 1. **WEATHER**: Given the proximity to Sagami bay, the same weather conditions would apply for both.
