@@ -337,6 +337,13 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 - [OpenSeaMap](https://map.openseamap.org/)
 - [JAXA Himawari Monitor](https://www.eorc.jaxa.jp/ptree/index.html)
 - [SunEarthTools.com](https://www.sunearthtools.com/dp/tools/pos_sun.php)
+- [Weather Spark](https://weatherspark.com/)
+- Google Earth
+
+# Sources
+- [Online Anthropometry: Chapter 2 - Definition and applicability of the Anthropometric data - 18. Shoulder breadth (biacromial)](https://personal.cityu.edu.hk/meachan/online%20anthropometry/chapter2/Ch2-18.htm)
+- [USA National Weather Service - Beaufort Scale](https://www.weather.gov/pqr/beaufort) and [USA National Weather Service - Guide to: Sea State, Wind, and Clouds](https://www.weather.gov/media/marine/SeaState.pdf)
+- [NZ Metservice - Sea State and Swell](https://blog.metservice.com/Sea_State_and_Swell)
+- [Kasaya, T., Minami, H., Okino, K. et al. Submarine landslides caused by the 2024 Noto Peninsula earthquake. Earth Planets Space 77, 72 (2025). https://doi.org/10.1186/s40623-025-02204-x](https://doi.org/10.1186/s40623-025-02204-x)
 - [genus Pandalus](https://www.godac.jamstec.go.jp/bismal/j/occurrences?taxon=0001051) on JAMSTEC Biological Information System for Marine Life
 - [genus Pandalus](https://www.marinespecies.org/aphia.php?p=taxdetails&id=107044) on World Register of Marine Species
-- Google Earth
