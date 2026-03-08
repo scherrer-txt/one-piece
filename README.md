@@ -23,7 +23,7 @@
 > Would you like to help? Get in touch either by opening an issue or slide into my DMs on [Reddit](https://www.reddit.com/user/Wurufuricu/). Knowledgeable people in areas like drones, marine biology, hydrometeorology, or people otherwise willing to help are more than welcome!  
 
 # One Piece Location
-> ![CAUTION]  
+> [!CAUTION]  
 > Status: **Ongoing**  
 > Drop locations: **Toyama** (high confidence), **Sagami** (mid-high), **Suruga** (low)  
 > Drop dates: **Feb. 13** for Toyama, **Feb. 17** for Sagami and Suruga  
@@ -38,7 +38,7 @@
 - [ ] Finish Sagami and Suruga bay sections
 
 ### Done
-- [x] Publish third iteration of findings (2026-03-08 01:40 CET)
+- [x] Publish third iteration of findings (2026-03-08 01:40 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/a519be053de4b831441f4f55e4e4e2e27e40a1e6))
 - [x] Repo clean-up (moved images to "./imgs")
 - [x] Cross-reference clouds with satellite images of [Sagami](#sagami) and [Suruga](#suruga) to get dates for drop
 - [x] Calculate the ship dimensions
@@ -245,7 +245,7 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 ```
 
 # Drop location
-> ![NOTE]  
+> [!NOTE]  
 > Drop locations: **Toyama** (high confidence), **Sagami** (mid-high), **Suruga** (low)  
 
 ### 0. Stitch the two maps from video:
@@ -275,7 +275,7 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 ![](./imgs/map-7.png)
 
 # Drop date
-> ![NOTE]  
+> [!NOTE]  
 > Possible dates for Toyama: **13.** (best candidate), 16., 18., 19., 24., 27.  
 > Possible dates for Sagami: 14., 16., **17.**, 20., 22., 24., 27.  
 > Possible dates for Suruga: **17.**, 22., 24., 27.  
@@ -298,12 +298,12 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 ![](./imgs/satellite.avif)
 
 ### 4. Dataset
-> ![NOTE]  
+> [!NOTE]  
 > **Filtering criteria**:
 > **Suitable**: Combination of wispy cirrus and cirrostratus with clearly defined stratocumulus clouds  
 > **Unsuitable**: Heavy overcast or clear skies over Toyama, Suruga or Sagami bays  
 
-> ![TIP]  
+> [!TIP]  
 > - 🟢 = accepted  
 > - 🟡 = unsure  
 > - 🔴 = rejected  
@@ -311,7 +311,7 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 ![](./imgs/satellite-2.avif)
 
 # The sea
-> ![NOTE]  
+> [!NOTE]  
 > Sea state 1, Beaufort 2, wind speed was ~5-6 knots  
 > Confidence: High  
 > Status: 🟢 Done  
@@ -319,7 +319,7 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 ![](./imgs/sea-1.png)
 
 # The ship
-> ![NOTE]  
+> [!NOTE]  
 > The ship is 14 m long, 5 meter wide  
 > Model: Yamaha DX-51A-0B (closest match)  
 > Owner: JAMSTEC  
@@ -341,7 +341,7 @@ Concerning the model of the ship, if it's not custom-built, then closest match i
 ![](./imgs/ship-2.png)
 
 # The other ship
-> ![NOTE]  
+> [!NOTE]  
 > Vessel type: Cargo ship  
 > Length: 50-100 m  
 > Confidence: Moderate-low  
@@ -353,7 +353,7 @@ A cargo ship is visible right on the horizon in the top right part of the frame 
 
 
 # The shrimp
-> ![NOTE]  
+> [!NOTE]  
 > Shrimp species: *Pandalus hypsinotus* or *Pandalus nipponensis*  
 > Confidence: Moderate-high  
 > Status: 🟢 Done
