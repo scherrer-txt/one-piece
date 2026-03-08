@@ -19,15 +19,31 @@
 
 ```
 
+> [!TIP]  
+> Would you like to help? Get in touch either by opening an issue or slide into my DMs on [Reddit](https://www.reddit.com/user/Wurufuricu/). Knowledgeable people in areas like drones, marine biology, hydrometeorology, or people otherwise willing to help are more than welcome!  
+
 # One Piece Location
-## Status
+> ![CAUTION]  
+> Status: **Ongoing**  
+> Drop locations: **Toyama** (high confidence), **Sagami** (mid-high), **Suruga** (low)  
+> Drop dates: **Feb. 13** for Toyama, **Feb. 17** for Sagami and Suruga  
+> Weather: Temperature **≧ 10°C**, Wind speed **~5-6 knots**, **partly cloudy**  
+> The ship: **Yamaha DX-51A-0B** (closest match yet)  
+> The cargo ship: **Yet unknown AIS**, 50-100 m long, moving SE↖NW  
+> The shrimp: **Pandalus hypsinotus** or **Pandalus nipponensis**  
+
 ### To-do
-- [ ] Cross-reference clouds with satellite images of [Sagami](#sagami) and [Suruga](#suruga) to get the exact date → confirm with weather report
+- [ ] Find out the model of the exact drone model used for aerial shots (its FOV would immensely help with almost everything)
+- [ ] Filter selected dates by cross-reference with weather report
 - [ ] Finish Sagami and Suruga bay sections
 
 ### Done
-- [x] Publish second iteration of my findings about [Toyama](#toyama) (2026-03-06 13:42 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/c3d60c6e49b8c41c2e0e12354b4d5619415f838b))
-- [x] Publish first iteration of my findings about [Toyama](#toyama) (2026-03-04 05:55 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/588583ff3b75ac852f4afef8fa338f3647ba80ae))
+- [x] Publish third iteration of findings (2026-03-08 01:40 CET)
+- [x] Repo clean-up (moved images to "./imgs")
+- [x] Cross-reference clouds with satellite images of [Sagami](#sagami) and [Suruga](#suruga) to get dates for drop
+- [x] Calculate the ship dimensions
+- [x] Publish second iteration of findings about [Toyama](#toyama) (2026-03-06 13:42 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/c3d60c6e49b8c41c2e0e12354b4d5619415f838b))
+- [x] Publish first iteration of findings about [Toyama](#toyama) (2026-03-04 05:55 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/588583ff3b75ac852f4afef8fa338f3647ba80ae))
 
 
 # Gathered Info
@@ -45,59 +61,71 @@
 
 ## Map
 <table>
-<tr>
+  <tr>
     <td>
-        <a href="src-1.png">
-            <img src="src-1.png"/>
-        </a>
-    </td>
-    <td>
-        <a href="src-2.png">
-            <img src="src-2.png"/>
-        </a>
-    </td>
-</tr>
+      <a href="./imgs/src-1.png">
+        <img src="./imgs/src-1.png"/>
+      </a>
+  </td>
+  <td>
+      <a href="./imgs/src-2.png">
+        <img src="./imgs/src-2.png"/>
+      </a>
+  </td>
+  </tr>
 </table>
 
 ## Ship
 <table>
-<tr>
-    <td>
-        <a href="src-3.png">
-            <img src="src-3.png"/>
-        </a>
+  <tr>
+  <td>
+    <a href="./imgs/src-4.png">
+      <img src="./imgs/src-4.png"/>
+    </a>
+  </td>
+  <td>
+    <a href="./imgs/src-5.png">
+      <img src="./imgs/src-5.png"/>
+    </a>
     </td>
+  </tr>
+  <tr>
     <td>
-        <a href="src-4.png">
-            <img src="src-4.png"/>
-        </a>
+      <a href="./imgs/src-6.png">
+        <img src="./imgs/src-6.png"/>
+      </a>
     </td>
-</tr>
-<tr>
-    <td>
-        <a href="src-5.png">
-            <img src="src-5.png"/>
-        </a>
-    </td>
-    <td>
-        <a href="src-6.png">
-            <img src="src-6.png"/>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td>
-        <a href="src-7.png">
-            <img src="src-7.png"/>
-        </a>
-    </td>
-    <td>
-        <a href="src-8.png">
-            <img src="src-8.png"/>
-        </a>
-    </td>
-</tr>
+  </tr>
 </table>
+
+## Sea
+<table>
+  <tr>
+    <td>
+      <a href="./imgs/src-0.png">
+        <img src="./imgs/src-0.png"/>
+      </a>
+    </td>
+    <td>
+      <a href="./imgs/src-3.png">
+        <img src="./imgs/src-3.png"/>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="./imgs/src-6.png">
+        <img src="./imgs/src-6.png"/>
+      </a>
+    </td>
+    <td>
+      <a href="./imgs/src-8.png">
+        <img src="./imgs/src-8.png"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ## Video description
 
@@ -217,72 +245,129 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 ```
 
 # Drop location
-tl;dr: Most probable are bays Toyama, then Sagami.
+> ![NOTE]  
+> Drop locations: **Toyama** (high confidence), **Sagami** (mid-high), **Suruga** (low)  
 
 ### 0. Stitch the two maps from video:
 
-![](map-1.png)
+![](./imgs/map-1.png)
 
 ### 1. Redraw in vector (for better scaling)
 
-![](map-2.png)
+![](./imgs/map-2.png)
 
-![](map-3.png)
+![](./imgs/map-3.png)
 
 ### 2. Location criteria:
-  - Shape of the coastline  
-  - Sea floor depth profile, has to be >600m deep, with a steep drop-off right from the coast. 
-  - Silt seafloor  
-  - **Flagless waters scenario**: Close to international waters (if the text at [2:06](https://youtu.be/O9M1UMj-vwE?t=126) "Onwards to flagless waters" would be understood as "international waters")  
-  - ~~Near ship harbor presence~~  
-  - ~~No mountains or significant landscape in view when taking into account the possition of the Sun on the ship footage~~  
+- Shape of the coastline  
+- Sea floor depth profile, has to be >600m deep, with a steep drop-off right from the coast. 
+- Silt seafloor  
+- **Flagless waters scenario**: Close to international waters (if the text at [2:06](https://youtu.be/O9M1UMj-vwE?t=126) "Onwards to flagless waters" would be understood as "international waters")  
+- ~~Near ship harbor presence~~  
+- ~~No mountains or significant landscape in view when taking into account the possition of the Sun on the ship footage~~  
 
-![](map-4.png)
+![](./imgs/map-4.png)
 
-![](map-5.png)
+![](./imgs/map-5.png)
 
-![](map-6.png)
+![](./imgs/map-6.png)
 
-![](map-7.png)
+![](./imgs/map-7.png)
 
 # Drop date
+> ![NOTE]  
+> Possible dates for Toyama: **13.** (best candidate), 16., 18., 19., 24., 27.  
+> Possible dates for Sagami: 14., 16., **17.**, 20., 22., 24., 27.  
+> Possible dates for Suruga: **17.**, 22., 24., 27.  
+> Confidence: Moderate-high  
+> Status: 🟡 Need to cross-reference with weather report (key conditions to look for: partly cloudy, 5 knots wind speed, air temperature ≧ 10°C)  
+
 ### 0. Date criteria
-  - At [0:57](https://youtu.be/O9M1UMj-vwE?t=57) the text reads "Feb. 12, 2026 - 2:38 PM The chest is sealed in a pressure-resistant glass sphere", so the drop could happen anytime after that
-  - Text at [1:13](https://youtu.be/O9M1UMj-vwE?t=73) reads "Feb. XX - 3:40 PM \[Local Time] Arrival at specified drop point", which means the drop couldn't happen later than 28th of February
-  - **12-28 February is the timeframe**
+- At [0:57](https://youtu.be/O9M1UMj-vwE?t=57) the text reads "Feb. 12, 2026 - 2:38 PM The chest is sealed in a pressure-resistant glass sphere", so the drop could happen anytime after that, but taking into account the needed logistics, Feb. 12 is highly unlikely
+- Text at [1:13](https://youtu.be/O9M1UMj-vwE?t=73) reads "Feb. XX - 3:40 PM \[Local Time] Arrival at specified drop point", which means the drop couldn't happen later than 28th of February
+- **13-28 February is the timeframe**
 
 ### 1. Weather criteria
-  - Sky has to be relatively open, only partly cloudy
-  - Weather has to be condusive for dramatic crepuscular rays
+- Sky has to be relatively open, partly cloudy, combination of low-altitude heavy clouds and wispy high-altitude ones
+- Weather has to be condusive for dramatic crepuscular rays (inversion, atmospheric haze, wispy high-altitude clouds)
 
 ### 2. Light criteria
-  - The drop was finished before sunset
-  - The shadows of the ship are long and fall toward the North/Northeast, which means the ship faces west in all frames
+- The drop was finished before sunset
+- The shadows of the ship are long and fall toward the North/Northeast, which means the ship faces West in all frames
 
-![](satellite.avif)
+![](./imgs/satellite.avif)
+
+### 4. Dataset
+> ![NOTE]  
+> **Filtering criteria**:
+> **Suitable**: Combination of wispy cirrus and cirrostratus with clearly defined stratocumulus clouds  
+> **Unsuitable**: Heavy overcast or clear skies over Toyama, Suruga or Sagami bays  
+
+> ![TIP]  
+> - 🟢 = accepted  
+> - 🟡 = unsure  
+> - 🔴 = rejected  
+
+![](./imgs/satellite-2.avif)
 
 # The sea
+> ![NOTE]  
+> Sea state 1, Beaufort 2, wind speed was ~5-6 knots  
+> Confidence: High  
+> Status: 🟢 Done  
 
-![](sea-1.png)
+![](./imgs/sea-1.png)
 
 # The ship
-The ship is **highly unusual**. The shape of the hull allows riding *through* waves even at high speeds (rather than riding on top of them, which would produce a up-and-down motion), which is rather unusual for a fishing vessel of this size. But I doubt the ship has any connection to Japan Coast Guard, since their vessels are visibly marked as such. I think JAMSTEC is the most probable owner/provider of this ship, since they would have the budget to order a custom-built ship for research purposes, for which reducing any unnecessary motion would be needed.
+> ![NOTE]  
+> The ship is 14 m long, 5 meter wide  
+> Model: Yamaha DX-51A-0B (closest match)  
+> Owner: JAMSTEC  
+> Confidence: High  
+> Status: 🟢 Done, but some information are still missing (callname, model, AIS number)  
 
-![](ship-1.png)
+The shape of the bow (ram bow close to the waterline) allows riding *through* waves even at high speeds (rather than riding on top of them, which would produce an up-and-down motion), which is rather unusual for a fishing vessel of this size.  
 
-![](ship-2.png)
+Connection to Japan Coast Guard seems highly unlikely, since their vessels are visibly marked as such. JAMSTEC appears to be the most probable owner of this ship, since their budget would allow ordering a custom-built ship or modifying one for research purposes, for which reducing any unnecessary motion would be needed.  
+
+While AIS (Automatic Identification System) is a useful tool for tracking vessels, this ships gross tonnage falls below the mandatory threshold, it would be voluntary at this point. Given the nature of the mission, it is fairly safe to assume the crew had AIS turned off.
+
+Concerning the model of the ship, if it's not custom-built, then closest match is [Yamaha DX-51A-0B](https://www.hokkaido-marine.co.jp/product/dx51a0b/). While the shape of the bow is close to the ship used for the drop, there are numerous differences in the shape of the center console (doors should be next to the side windows, not under them; front windows are 2 panes divided by a column, both have scanwipers). It could be an older model by the same manufacturer (assumed by the shape and look of the doors).
+
+![](./imgs/ship-1.png)
+
+![](./imgs/ship-3.png)
+
+![](./imgs/ship-2.png)
+
+# The other ship
+> ![NOTE]  
+> Vessel type: Cargo ship  
+> Length: 50-100 m  
+> Confidence: Moderate-low  
+> Status: 🟡 Further research is due (approximate length, callname, AIS number)  
+
+A cargo ship is visible right on the horizon in the top right part of the frame at [1:02](https://youtu.be/O9M1UMj-vwE?t=62). Its estimated gross tonnage appears to be sufficient to trigger mandatory AIS.
+
+![](./imgs/ship-4.png)
+
 
 # The shrimp
+> ![NOTE]  
+> Shrimp species: *Pandalus hypsinotus* or *Pandalus nipponensis*  
+> Confidence: Moderate-high  
+> Status: 🟢 Done
+
 Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or *Pandalus nipponensis* (observed both in **Suruga** and **Sagami**, in depths over 500 m). Adult pandalus shrimp can have as much as 20 centimeters in length.
 
-![](shrimp-1.png)
+![](./imgs/shrimp-1.png)
 
 # Toyama
 > [!NOTE]  
 > **Place**: ~14 km south of Noto  
 > **Date**: February 13th  
 > **Time**: 16:32  
-> **Wind**: 2.57 m/s, westward  
+> **Wind**: 2.57 m/s W  
 > **Visibility**: 10.00 km  
 > **Cloud cover**: Partly Cloudy  
 
@@ -333,24 +418,32 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 - I cannot stress enough that when overlaid with map sketch shows nothing fits, not even as a rough idea -- when aligning the port, shore and depth marks are off; when aligning the big peninsula, the smaller one floats in the sea; depth marks cannot be aligned at all.
 
 # Team
-- scherrer-txt
-- [Lea_be_snappy](https://www.instagram.com/lea_be_snappy/)
-- [maro95amv](https://www.reddit.com/user/maro95amv/)
+- scherrer-txt (head of research)
+- [Lea_be_snappy](https://www.instagram.com/lea_be_snappy/) (research associate)
+- [maro95amv](https://www.reddit.com/user/maro95amv/) (research associate)
+- [LUKEPPP89](https://github.com/LUKEPPP89) (research contributor)
 
 # Tools
-- No AI/LLM model was used to create any part of our findings
-  - Gemini and Claude used for brainstorming, every hallucination was thoroughly researched by a human and either proved or disproved
+- No AI/LLM model was used to create any part of our findings (images nor text)
+  - Gemini and Claude were used for brainstorming only, every hallucination was thoroughly researched by a human and either proved or disproved
+  - Perplexity was used to find sources, which were then verified and read by a human
 - [OpenSeaMap](https://map.openseamap.org/)
 - [JAXA Himawari Monitor](https://www.eorc.jaxa.jp/ptree/index.html)
 - [SunEarthTools.com](https://www.sunearthtools.com/dp/tools/pos_sun.php)
 - [Weather Spark](https://weatherspark.com/)
+- [DuckDuckGo](https://duckduckgo.com/)
 - Google Earth
+- Google
 
 # Sources
 - ["ONE PIECE" Worldwide Sales Exceed 600 Million Copies - "What is ONE PIECE?"](https://www.youtube.com/watch?v=O9M1UMj-vwE)
 - [Online Anthropometry: Chapter 2 - Definition and applicability of the Anthropometric data - 18. Shoulder breadth (biacromial)](https://personal.cityu.edu.hk/meachan/online%20anthropometry/chapter2/Ch2-18.htm)
 - [USA National Weather Service - Beaufort Scale](https://www.weather.gov/pqr/beaufort) and [USA National Weather Service - Guide to: Sea State, Wind, and Clouds](https://www.weather.gov/media/marine/SeaState.pdf)
 - [NZ Metservice - Sea State and Swell](https://blog.metservice.com/Sea_State_and_Swell)
+- [Astronoo How far is the horizon?](https://astronoo.com/en/articles/horizon.html), [Firgelli Automations Distance To Horizon calculator](https://www.firgelliauto.com/blogs/engineering-calculators/distance-to-horizon-calculator) and [YesCalculator Atmospheric Refraction Distance calculator](https://www.yescalculator.com/en/tool/atmospheric-refraction-distance-calculator.html)
 - [Kasaya, T., Minami, H., Okino, K. et al. Submarine landslides caused by the 2024 Noto Peninsula earthquake. Earth Planets Space 77, 72 (2025). https://doi.org/10.1186/s40623-025-02204-x](https://doi.org/10.1186/s40623-025-02204-x)
 - [genus Pandalus](https://www.godac.jamstec.go.jp/bismal/j/occurrences?taxon=0001051) on JAMSTEC Biological Information System for Marine Life
-- [genus Pandalus](https://www.marinespecies.org/aphia.php?p=taxdetails&id=107044) on World Register of Marine Species
+- [genus Pandalus](https://www.marinespecies.org/aphia.php?p=taxdetails&id=107044) on World Register of Marine Species  
+- [Yamaha DX-51A-0B](https://www.hokkaido-marine.co.jp/product/dx51a0b/)
+- [“Nose Jobs” For Ships – Reason Behind Retrofitting Bulbous Bow](https://www.marineinsight.com/naval-architecture/nose-jobs-for-ships-reasons-behind-retrofitting-bulbous-bow/)
+- [Droneversus - FOV](https://droneversus.com/field-of-view)
