@@ -20,7 +20,8 @@
 ```
 
 > [!TIP]  
-> Would you like to help? Get in touch either by opening an issue or slide into my DMs on [Reddit](https://www.reddit.com/user/Wurufuricu/). Knowledgeable people in areas like drones, marine biology, hydrometeorology, or people otherwise willing to help are more than welcome!  
+> Would you like to help? Knowledgeable people in areas like drones, marine biology, hydrometeorology, or people otherwise willing to help are more than welcome!  
+> See [🙌 Help appreciated ](https://github.com/scherrer-txt/one-piece-location/discussions/6) for what needs doing atm, and create a [discussions](https://github.com/scherrer-txt/one-piece-location/discussions) thread if you have anything to share or ask
 
 # One Piece Location
 > [!CAUTION]  
@@ -32,12 +33,8 @@
 > The cargo ship: **Yet unknown AIS**, 50-100 m long, moving SE↖NW  
 > The shrimp: **Pandalus hypsinotus** or **Pandalus nipponensis**  
 
-### To-do
-- [ ] Find out the model of the exact drone model used for aerial shots (its FOV would immensely help with almost everything)
-- [ ] Filter selected dates by cross-reference with weather report
-- [ ] Finish Sagami and Suruga bay sections
-
 ### Done
+- [x] Add screencaps from The Video
 - [x] Publish third iteration of findings (2026-03-08 01:40 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/a519be053de4b831441f4f55e4e4e2e27e40a1e6))
 - [x] Repo clean-up (moved images to "./imgs")
 - [x] Cross-reference clouds with satellite images of [Sagami](#sagami) and [Suruga](#suruga) to get dates for drop
@@ -45,8 +42,10 @@
 - [x] Publish second iteration of findings about [Toyama](#toyama) (2026-03-06 13:42 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/c3d60c6e49b8c41c2e0e12354b4d5619415f838b))
 - [x] Publish first iteration of findings about [Toyama](#toyama) (2026-03-04 05:55 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/588583ff3b75ac852f4afef8fa338f3647ba80ae))
 
-
 # Gathered Info
+## The Video
+<a href="https://www.youtube.com/watch?v=O9M1UMj-vwE"><img src="https://i.ytimg.com/vi/O9M1UMj-vwE/maxresdefault.jpg"/></a>
+
 ## Timestamps
 - [0:09](https://youtu.be/O9M1UMj-vwE?t=9) - Feb. 8, 2026 - 1:25 PM At Eiichiro Oda's studio
 - [0:54](https://youtu.be/O9M1UMj-vwE?t=54) - Photo frame: 2602-C0233A
@@ -58,74 +57,6 @@
 - [1:29](https://youtu.be/O9M1UMj-vwE?t=89) - 4:51 PM 200m and descending
 - [1:32](https://youtu.be/O9M1UMj-vwE?t=92) - 5:04 PM Sea floor touchdown at 651m
 - [2:06](https://youtu.be/O9M1UMj-vwE?t=126) - "Onwards to flagless waters"
-
-## Map
-<table>
-  <tr>
-    <td>
-      <a href="./imgs/src-1.png">
-        <img src="./imgs/src-1.png"/>
-      </a>
-  </td>
-  <td>
-      <a href="./imgs/src-2.png">
-        <img src="./imgs/src-2.png"/>
-      </a>
-  </td>
-  </tr>
-</table>
-
-## Ship
-<table>
-  <tr>
-  <td>
-    <a href="./imgs/src-4.png">
-      <img src="./imgs/src-4.png"/>
-    </a>
-  </td>
-  <td>
-    <a href="./imgs/src-5.png">
-      <img src="./imgs/src-5.png"/>
-    </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="./imgs/src-6.png">
-        <img src="./imgs/src-6.png"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
-## Sea
-<table>
-  <tr>
-    <td>
-      <a href="./imgs/src-0.png">
-        <img src="./imgs/src-0.png"/>
-      </a>
-    </td>
-    <td>
-      <a href="./imgs/src-3.png">
-        <img src="./imgs/src-3.png"/>
-      </a>
-    </td>
-  </tr>
-    <tr>
-    <td>
-      <a href="./imgs/src-6.png">
-        <img src="./imgs/src-6.png"/>
-      </a>
-    </td>
-    <td>
-      <a href="./imgs/src-8.png">
-        <img src="./imgs/src-8.png"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
 
 ## Video description
 
@@ -244,7 +175,75 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 }
 ```
 
-# Drop location
+## Map
+<table>
+  <tr>
+    <td>
+      <a href="./imgs/src-1.png">
+        <img src="./imgs/src-1.png"/>
+      </a>
+  </td>
+  <td>
+      <a href="./imgs/src-2.png">
+        <img src="./imgs/src-2.png"/>
+      </a>
+  </td>
+  </tr>
+</table>
+
+## Ship
+<table>
+  <tr>
+  <td>
+    <a href="./imgs/src-4.png">
+      <img src="./imgs/src-4.png"/>
+    </a>
+  </td>
+  <td>
+    <a href="./imgs/src-5.png">
+      <img src="./imgs/src-5.png"/>
+    </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="./imgs/src-6.png">
+        <img src="./imgs/src-6.png"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+## Sea
+<table>
+  <tr>
+    <td>
+      <a href="./imgs/src-0.png">
+        <img src="./imgs/src-0.png"/>
+      </a>
+    </td>
+    <td>
+      <a href="./imgs/src-3.png">
+        <img src="./imgs/src-3.png"/>
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <a href="./imgs/src-6.png">
+        <img src="./imgs/src-6.png"/>
+      </a>
+    </td>
+    <td>
+      <a href="./imgs/src-8.png">
+        <img src="./imgs/src-8.png"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+# Research
+## The Drop: Location
 > [!NOTE]  
 > Drop locations: **Toyama** (high confidence), **Sagami** (mid-high), **Suruga** (low)  
 
@@ -274,7 +273,7 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 
 ![](./imgs/map-7.png)
 
-# Drop date
+## The Drop: Date
 > [!NOTE]  
 > Possible dates for Toyama: **13.** (best candidate), 16., 18., 19., 24., 27.  
 > Possible dates for Sagami: 14., 16., **17.**, 20., 22., 24., 27.  
@@ -310,7 +309,7 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 
 ![](./imgs/satellite-2.avif)
 
-# The sea
+## The Sea
 > [!NOTE]  
 > Sea state 1, Beaufort 2, wind speed was ~5-6 knots  
 > Confidence: High  
@@ -318,7 +317,7 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 
 ![](./imgs/sea-1.png)
 
-# The ship
+## The Ship
 > [!NOTE]  
 > The ship is 14 m long, 5 meter wide  
 > Model: Yamaha DX-51A-0B (closest match)  
@@ -340,7 +339,7 @@ Concerning the model of the ship, if it's not custom-built, then closest match i
 
 ![](./imgs/ship-2.png)
 
-# The other ship
+## The Other Ship
 > [!NOTE]  
 > Vessel type: Cargo ship  
 > Length: 50-100 m  
@@ -352,7 +351,7 @@ A cargo ship is visible right on the horizon in the top right part of the frame 
 ![](./imgs/ship-4.png)
 
 
-# The shrimp
+# The Shrimp
 > [!NOTE]  
 > Shrimp species: *Pandalus hypsinotus* or *Pandalus nipponensis*  
 > Confidence: Moderate-high  
@@ -362,7 +361,8 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 
 ![](./imgs/shrimp-1.png)
 
-# Toyama
+# Outcomes
+## Toyama
 > [!NOTE]  
 > **Place**: ~14 km south of Noto  
 > **Date**: February 13th  
@@ -371,7 +371,7 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 > **Visibility**: 10.00 km  
 > **Cloud cover**: Partly Cloudy  
 
-## Reasoning
+### Reasoning
 0. **COAST**: The shape of the coast on **the map aligns almost perfectly with coastline of Toyama bay**.
 1. **WEATHER**: Shores of Noto peninsula, with hills up to 300 m above sea level (visible from as far as 60 km on clear day), should be visible from the drop point, as they are only ~6.5 NM away. But considering the weather conditions of transition from winter to spring, like temperature inversion (air temp. rises while the water remains near 10-12°C, creating a layer of moisture near the surface; **such air temp. rise to 10°C was recorded on 2026-02-13** between 1-2 PM.), resulting atmospheric **haze could obscure shores of Noto**, even at a relatively close ~12 km range -- this would also help **produce crepuscular rays** like in the video. Overcast sky would produce flat, directionless light.
 2. **JAMSTEC**: Following the 2024 Noto Peninsula earthquake, **Toyama bay seafloor has intensive ongoing research** and hight-tech effort to remap the seafloor (JAMSTEC) which would render the needed infrastructure for deep sea projects available.  
@@ -382,7 +382,7 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 - There is also a shrimp in a frame of the video. It is probably worth mentioning that there lives a species of shrimp called **Toyama shrimp in the bay**.  
 - The fact that there were **giant squids** found in Toyama, which at the time of the drop begin their seasonal Diel vertical migration, could be interesting for some.
 
-# Sagami
+## Sagami
 > [!NOTE]  
 > **Place**: ~28 km south of Ōshima  
 > **Date**: TBA  
@@ -391,6 +391,7 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 > **Visibility**: TBA  
 > **Cloud cover**: Partly Cloudy  
 
+### Reasoning
 0. **COAST**: Sagami bay seems like the **next most possible option**, given that both the **coastline and depth profiles align perfectly**. Not only that, even the **ship route points towards** a large area of 500-750 m depths.
 1. **WEATHER**: TBA
 2. **JAMSTEC**: **It's closeness to Tokyo and JAMSTEC headquarters in Yokosuka would appear to lend it more weight**, since moving the film crew and the payload itself would be easier than to 300+ km far away Toyama. Although the maritime equippment would available on-site or for a rent around Toyama bay, moving the crew and the payload itself from Tokyo would be a 300+ km journey.
@@ -409,6 +410,7 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 > **Visibility**: TBA  
 > **Cloud cover**: Partly Cloudy  
 
+### Reasoning
 0. **COAST**: **Nothing fits**. Depth marks, coastline, ship route. But it still has plenty of sufficiently deep areas in the interior of the bay.
 1. **WEATHER**: Given the proximity to Sagami bay, the same weather conditions would apply for both.
 2. **JAMSTEC**: There is some presence.
@@ -421,7 +423,7 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 - scherrer-txt (head of research)
 - [Lea_be_snappy](https://www.instagram.com/lea_be_snappy/) (research associate)
 - [maro95amv](https://www.reddit.com/user/maro95amv/) (research associate)
-- [LUKEPPP89](https://github.com/LUKEPPP89) (research contributor)
+- [LUKEPPP89](https://github.com/LUKEPPP89) (research associate)
 
 # Tools
 - No AI/LLM model was used to create any part of our findings (images nor text)
