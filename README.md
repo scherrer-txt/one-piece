@@ -29,12 +29,14 @@
 > Drop locations: **Toyama** (high confidence), **Sagami** (mid-high), **Suruga** (low)  
 > Drop dates: **Feb. 13** for Toyama, **Feb. 17** for Sagami and Suruga  
 > Weather: Temperature **≧ 10°C**, Wind speed **~5-6 knots**, **partly cloudy**  
+> The One Piece: Chest (cca 140×100 mm), glass sphere (cca ⌀226 mm), frame (365×365 mm)  
 > The ship: **Yamaha DX-51A-0B** (closest match yet)  
 > The cargo ship: **Yet unknown AIS**, 50-100 m long, moving SE↖NW  
 > The shrimp: **Pandalus hypsinotus** or **Pandalus nipponensis**  
 
 ### Done
-- [x] Add screencaps from The Video
+- [x] Add [The One Piece](#the-one-piece)
+- [x] Add screencaps from The Video (2026-03-11 2105 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/b1b14b9ec20d21e42a4376e6c4c927391177ba94))
 - [x] Publish third iteration of findings (2026-03-08 01:40 CET, [source](https://github.com/scherrer-txt/one-piece-location/commit/a519be053de4b831441f4f55e4e4e2e27e40a1e6))
 - [x] Repo clean-up (moved images to "./imgs")
 - [x] Cross-reference clouds with satellite images of [Sagami](#sagami) and [Suruga](#suruga) to get dates for drop
@@ -44,7 +46,7 @@
 
 # Gathered Info
 ## The Video
-<a href="https://www.youtube.com/watch?v=O9M1UMj-vwE"><img src="https://i.ytimg.com/vi/O9M1UMj-vwE/maxresdefault.jpg"/></a>
+<a href="https://www.youtube.com/watch?v=O9M1UMj-vwE"><img src="./imgs/video.png"/></a>
 
 ## Timestamps
 - [0:09](https://youtu.be/O9M1UMj-vwE?t=9) - Feb. 8, 2026 - 1:25 PM At Eiichiro Oda's studio
@@ -309,6 +311,18 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 
 ![](./imgs/satellite-2.avif)
 
+## The One Piece
+> [!NOTE]  
+> Dimensions: Chest (cca 140×100 mm), glass sphere (cca ⌀226 mm), frame (365×365 mm)  
+> Confidence: High  
+> Status: 🟢 Done  
+
+![](./imgs/one-piece-1.png)
+
+![](./imgs/one-piece-2.png)
+
+![](./imgs/one-piece-3.png)
+
 ## The Sea
 > [!NOTE]  
 > Sea state 1, Beaufort 2, wind speed was ~5-6 knots  
@@ -398,7 +412,7 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 3. **Flagless waters scenario**: Applies, it would put the drop point ~15 NM south of Ōshima, with 35 square nautical miles of area with 500-750 m depths.
 
 ### Notes
-- Sagami but the apparent **lack of any meaningful sea traffic** in shots is concerning, as Sagami bay/Kaneda bay are **very busy**, since they lead to Tokyo harbor, but the shots in the video were deliberate and picked to show the vastness of the sea. What was left on the editting table is unknown.
+- The apparent **lack of any meaningful sea traffic** in shots is concerning, as Sagami bay/Kaneda bay are **very busy**, since they lead to Tokyo harbor, but the shots in the video were deliberate and picked to show the vastness of the sea. What was left on the editting table is unknown.
 - The aligned ship route could indicate that **“Flagless waters” is a red herring**, leading any possible adventurers **safely into International waters**, rather than into japanese waters.
 
 # Suruga
@@ -448,5 +462,6 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 - [genus Pandalus](https://www.godac.jamstec.go.jp/bismal/j/occurrences?taxon=0001051) on JAMSTEC Biological Information System for Marine Life
 - [genus Pandalus](https://www.marinespecies.org/aphia.php?p=taxdetails&id=107044) on World Register of Marine Species  
 - [Yamaha DX-51A-0B](https://www.hokkaido-marine.co.jp/product/dx51a0b/)
+- Pentel Color Brush Pen GFL [Pentel Store](https://penstore.ie/ie/pentel/color-brush-pigment-black), [E-bay listing](https://www.ebay.com/itm/205157652603), [Parka Blog review](https://www.parkablogs.com/content/review-pentel-color-brush-pens)
 - [“Nose Jobs” For Ships – Reason Behind Retrofitting Bulbous Bow](https://www.marineinsight.com/naval-architecture/nose-jobs-for-ships-reasons-behind-retrofitting-bulbous-bow/)
 - [Droneversus - FOV](https://droneversus.com/field-of-view)
