@@ -331,6 +331,46 @@ Nothing unusual, but this is as far as metadata examination of a YouTube video c
 
 ![](./imgs/sea-1.png)
 
+## The Code
+> [!NOTE]  
+> Either a cryptogram (pointing at manga chapters) or a classification code used for naming production assets  
+> Confidence: Moderate-low  
+> Status: 🟡 Further research is due  
+
+We are probably looking at either a cryptogram or some kind of a classification code. If the former is true, we tried to assign meaning to the code based on a key below; if the latter is true, then it is a somewhat dead end -- the question still remains why they used these specific pictures and this specific kind of classification code.
+
+### Notable observations:
+- Last code, accompanying a photo of seagulls, points to a manga chapter opening with a frame of seagulls flying over Going Merry
+- First two codes have 6 character after the "-", but the last one has 7 characters
+- For now it doesn't seem like any standard classification system has been used to name these pictures
+
+### The key:
+- 2602: Year and month in YYMM format
+- C: Might mean manga chapter¹
+- NNNN: Might be the chapter number (four letters would make sense since there are now 1176 chapters)
+- A/BN: These letters might point to specific text bubbles, but we're still unsure what they really mean.
+
+¹: We thought about anime episodes too, but since Oda is primarily the author of the manga, which is his primary medium of choice, and has less creative control over the anime, it would make sense to limit the research to manga only. That being said, we looked into the anime too, the code seems to correspond to episode 233 ("The Pirate Kidnapping Incident and the Pirate Ship Waits for Death!", arc Water 7), episode 189 ("Eternal Friendship! The Bell of Oath Echoes Throughout the Giant Ocean!!", arc Skypiea) and episode 43 ("The End of the Fish-Man Empire! Nami is My Friend!", arc Arlong Park)
+
+### Source
+
+> Timestamp: [0:54](https://youtu.be/O9M1UMj-vwE?t=54)
+![](./imgs/code-1-src.png)
+
+> Timestamp: [0:58](https://youtu.be/O9M1UMj-vwE?t=58)
+![](./imgs/code-2-src.png)
+
+> Timestamp: [1:09](https://youtu.be/O9M1UMj-vwE?t=69)
+![](./imgs/code-3-src.png)
+
+### Findings
+
+![](./imgs/code-1.png)
+
+![](./imgs/code-2.png)
+
+![](./imgs/code-3.png)
+
 ## The Ship
 > [!NOTE]  
 > The ship is 14 m long, 5 meter wide  
@@ -363,7 +403,6 @@ Concerning the model of the ship, if it's not custom-built, then closest match i
 A cargo ship is visible right on the horizon in the top right part of the frame at [1:02](https://youtu.be/O9M1UMj-vwE?t=62). Its estimated gross tonnage appears to be sufficient to trigger mandatory AIS.
 
 ![](./imgs/ship-4.png)
-
 
 # The Shrimp
 > [!NOTE]  
