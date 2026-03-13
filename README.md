@@ -343,6 +343,7 @@ We are probably looking at either a cryptogram or some kind of a classification 
 - Last code, accompanying a photo of seagulls, points to a manga chapter opening with a frame of seagulls flying over Going Merry
 - First two codes have 6 character after the "-", but the last one has 7 characters
 - For now it doesn't seem like any standard classification system has been used to name these pictures
+- Only three frames in the whole video are displayed like this (black background and split in two videos/pictures), and all three have this kind of a code
 
 ### The key:
 - 2602: Year and month in YYMM format
