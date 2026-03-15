@@ -505,3 +505,8 @@ Most probably either *Pandalus hypsinotus* (known also as **Toyama** shrimp) or 
 - Pentel Color Brush Pen GFL [Pentel Store](https://penstore.ie/ie/pentel/color-brush-pigment-black), [E-bay listing](https://www.ebay.com/itm/205157652603), [Parka Blog review](https://www.parkablogs.com/content/review-pentel-color-brush-pens)
 - [“Nose Jobs” For Ships – Reason Behind Retrofitting Bulbous Bow](https://www.marineinsight.com/naval-architecture/nose-jobs-for-ships-reasons-behind-retrofitting-bulbous-bow/)
 - [Droneversus - FOV](https://droneversus.com/field-of-view)
+
+# Mentioned in
+- [Real World Location of the One Piece](https://www.youtube.com/watch?v=i0f-Y2efMrg) by Kosta Genaris on YouTube
+- [Fans Just Found The 4 Exact Locations Of Oda's One Piece! (New Evidence)](https://youtu.be/XdYKkUJeLxU?t=405) by Richo on YouTube
+- [One Piece: Someone Might Have Found Where Oda Hid the Treasure](https://otakukart.com/one-piece-someone-might-have-found-where-oda-hid-the-treasure/) by Ryota Ishizaki on OtakuKart
